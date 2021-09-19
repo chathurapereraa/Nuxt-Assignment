@@ -1,0 +1,6 @@
+ 1. The list of posts should be display in the application.
+ 2. Show pagination at the bottom of the table. (don’t use any react libraries for pagination).
+ 3. Add a filter option to filter out the post limit. (make the dropdown list).
+ 4. Display the total post count in the top left corner of the table.
+ 5. Display the page number in the top right corner of the application.
+ 6. Add spinner when loading the posts.
