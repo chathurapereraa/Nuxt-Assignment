@@ -1,6 +1,7 @@
 <template>
   <div class="posts__display">
     <Header :num-of-pages="filteredPostsCount" :page-number="pageNumber" />
+    <p>test</p>
     <table>
       <tr>
         <th>#</th>
